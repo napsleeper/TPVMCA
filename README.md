@@ -1,6 +1,6 @@
 Trabajo Práctico computación aplicada
 
-Profesor: Guillermo Maquieira
+Profesor: Guillermo Maquieira 
 
 Integrantes: 
  - Aileen Krivanek
